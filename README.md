@@ -1,4 +1,4 @@
-# AWS Infrastructure Setup
+# AWS Infrastructure
 
 ## Overview
 This project sets up a scalable and secure AWS infrastructure, including a VPC, public and private subnets, EC2 instances, a Bastion server, NAT Gateway, database server, and other essential AWS services.
